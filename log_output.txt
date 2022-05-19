@@ -1,3 +1,16 @@
+[Vicpillon] Wed May 18 23:38:24 2022 +0900 analysis diagram 56e4f9d
+[Vicpillon] Wed May 18 23:38:24 2022 +0900 communication diagram aa3dedb
+[Vicpillon] Wed May 18 23:38:24 2022 +0900 usecase diagram d12fd71
+[Vicpillon] Wed May 18 23:38:24 2022 +0900 requirement list, usecase description 6ba9ca3
+[PangJae] Wed May 18 23:32:29 2022 +0900 add usecase_description2_2 3af8052
+[PangJae] Wed May 18 23:31:39 2022 +0900 add communication_diagram_2 2617dc5
+[PangJae] Wed May 18 23:29:20 2022 +0900 add analysis class diagram 233818a
+[PangJae] Wed May 18 23:28:10 2022 +0900 Delete PangJae f15d1a0
+[PangJae] Wed May 18 23:27:25 2022 +0900 rename directory jaehwan -> PangJae bd3968a
+[Hyun-hyee] Wed May 18 23:23:22 2022 +0900 Merge branch 'master' of https://github.com/Vicpillon/SE 2d12730
+[Hyun-hyee] Wed May 18 23:23:08 2022 +0900 communication_diagram 1d6fbf2
+[PangJae] Wed May 18 23:21:56 2022 +0900 Create jaehwan directory 25563c2
+[Hyun-hyee] Wed May 18 23:21:16 2022 +0900 Create communication_diagram_3.png 27071cf
 [PangJae] Mon May 2 04:23:39 2022 +0900 ui 45e4490
 [PangJae] Mon May 2 04:22:21 2022 +0900 usecase_description 86cf9f3
 [PangJae] Mon May 2 04:18:07 2022 +0900 usecase 40716c5
